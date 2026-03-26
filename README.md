@@ -38,5 +38,4 @@ jupyter notebook RL_EXP_2.ipynb
 
 ---
 
-**Repository Structure**: ✓ Source Code | ✓ Dataset | Results | ✓ Documentation | ✓ Requirements
 
